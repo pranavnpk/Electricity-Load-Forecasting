@@ -13,3 +13,7 @@ This project focuses on forecasting electricity demand using historical time-ser
 
 ## Project Type
 Machine Learning / Time Series Forecasting
+
+## Author
+N Pranav Kumar  
+PES University
